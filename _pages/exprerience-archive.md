@@ -36,11 +36,19 @@ classes: wide
 
 <a href = "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183826" style="text-decoration:None; color:black;">3. 라즈베리파이 환경에서의 스마트 알람 IoT 시스템 개발	</a>	<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2022.12</span>
 
-<span style="text-decoration:None; color:black;">4. 증강현실에서 지중화 제어반의 위치 정확도 향상을 위한 객체 인식 활용 설계</span>	<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
+<a href = "https://www-dbpia-co-kr.libproxy.kumoh.ac.kr/journal/articleDetail?nodeId=NODE11485370" style="text-decoration:None; color:black;">4. 증강현실에서 지중화 제어반의 위치 정확도 향상을 위한 객체 인식 활용 설계</a>
+<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
 
-<span style="text-decoration:None; color:black;">5. Stable Diffusion을 활용한 궤적 기반 이미지 생성 애플리케이션</span>	<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
+<a href = "https://www-dbpia-co-kr.libproxy.kumoh.ac.kr/journal/articleDetail?nodeId=NODE11485552" style="text-decoration:None; color:black;">5. Stable Diffusion을 활용한 궤적 기반 이미지 생성 애플리케이션</a>	
+<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
 
-<span style="text-decoration:None; color:black;">6. 공공데이터를 활용한 장애인 맞춤형 일자리 추천 애플리케이션</span>	<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
+<a href = "https://www-dbpia-co-kr.libproxy.kumoh.ac.kr/journal/articleDetail?nodeId=NODE11485658" style="text-decoration:None; color:black;">6. 공공데이터를 활용한 장애인 맞춤형 일자리 추천 애플리케이션</a>	
+<span style="color:SlateGray; font-size:80%">Proceedings of KIIT Conference 2023.06</span>
+
+#### 📑 저널
+<br>
+<a href = "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11616419" style="text-decoration:None; color:black;">객체 인식과 증강 현실을 이용한 모바일 환경에서의 향상된 위치 기반 시설물 관리</a>	
+<span style="color:SlateGray; font-size:80%">한국정보기술학회논문지 제21권 제11호(JKIIT, Vol.21, No.11)</span>
 
 
 
