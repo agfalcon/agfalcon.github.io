@@ -55,10 +55,21 @@ classes: wide
 #### 💻 전공 관련 활동
 
 ##### 학부 연구생
+<a href = "https://agfalcon.github.io/project/ControlPanel/" style="text-decoration:None; color:black;">1. 지중화 제어반 관리 애플리케이션 개발</a>
+<a href = "https://agfalcon.github.io/project/DiseaseCaption/" style="text-decoration:None; color:black;">2. 고추 질병해 감지 애플리케이션 개발</a>
+<span style="text-decoration:None; color:black;">3. 진동 데이터 이상 감지 분석</span>
+<span style="text-decoration:None; color:black;">4. 논문 및 저널 게재, 학술 대회 참가</span>
+<span style="text-decoration:None; color:black;">5. 학술 세미나</span>
 
 ##### 스마일게이트 22 Winter Dev Camp
+<a href = "https://github.com/agfalcon/AOS_BLOG" style="text-decoration:None; color:black;">1. 개인 프로젝트 - 블로그</a>
+<a href = "https://agfalcon.github.io/project/SmileStone/" style="text-decoration:None; color:black;">2. 팀 프로젝트 - 지식 거래 플랫폼</a>
 
 ##### 외주 아르바이트
+<span  style="text-decoration:None; color:black;">1. TV 조작 디바이스 GUI 아르바이트
+</span>
+<a href = "https://agfalcon.github.io/project/SmartLamp/" style="text-decoration:None; color:black;">2. 블루투스를 통한 가로등 조작 애플리케이션 개발 
+</a>
 
 
 
