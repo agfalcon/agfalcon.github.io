@@ -9,14 +9,6 @@ header:
 ---
 
 
-### 🔗 Link
-
-Source
-
-Android : https://github.com/agfalcon/aos_project_ControlPanel_ver-3.0 (private)
-
-
-
 ### 📖 상세 내용
 
 <p align="center">
@@ -32,8 +24,9 @@ Android : https://github.com/agfalcon/aos_project_ControlPanel_ver-3.0 (private)
 ### 🛠️ 사용 기술 및 라이브러리
 <p style="font-size:16px;">
 - Kotlin, Android<br>
-- Google Maps, Google ARCore<br>
-- Retrofit2, SlidingUpPanel, Room, javagl<br>
+- Google Maps<br>
+- Google ARCore, javagl<br>
+- Retrofit2, SlidingUpPanel, Room<br>
 - Figma, Postman, GitHub<br>
 </p>
 
@@ -42,11 +35,10 @@ Android : https://github.com/agfalcon/aos_project_ControlPanel_ver-3.0 (private)
 <p style="font-size:16px;">
 - Figma를 활용하여 앱 디자인<br>
 - 전체 UI 구성<br>
-- Room 라이브러리로 제어반 정보 내부 데이터베이스에 저장<br>
-- Retrofit2를 활용하여 서버에서 제어반 정보에 대한 CRUD 기능<br>
-- ARCore를 적용 매립 위치 보여주기 기능<br>
-- MVVM 패턴 적용<br>
-- 그 외 모든 안드로이드 앱 관련 제작<br>
+- 전체 아키텍처 설계<br>
+- 제어반 관리 기능<br>
+- 제어반 지도 및 길찾기 기능<br>
+- 제어반 AR 길찾기 기능<br>
 </p>
 
 
@@ -54,8 +46,6 @@ Android : https://github.com/agfalcon/aos_project_ControlPanel_ver-3.0 (private)
 ### 💡 깨달은 점
 <p style="font-size:14px;">
 - 앱 지식이 없을 때 부터 맡은 첫 앱 프로젝트라서 지식이 쌓일 때 마다 수정하면서 실력이 성장하는 것을 느낄 수 있었음.<br>
-- GitHub를 통해서 큰 수정 마다 새로운 버전으로 관리를 하면 편리함.<br>
-- domain layer와 data layer를 잘 나누어 아키텍처를 설계하니 추후에 코드를 수정할 때 편리함.<br>
 - 사용자의 위치 정보를 object 객체로 관리했는데 실무에서는 유저 정보 같은 경우 어떻게 관리하는지 공부해야할 것 같음.<br>
 - 기업과 연계하여 2년 간의 오랜 기간동안 적정 목표를 달성하고 계속해서 회의 및 수정하는 과정에서 적극적인 소통과 명세서가 매우 중요함을 느낌.<br>
 - Room의 경우 수정 시 version과 함께 migrate 과정이 필요함을 알게 되었고 그 과정을 공부할 수 있었음.<br>
