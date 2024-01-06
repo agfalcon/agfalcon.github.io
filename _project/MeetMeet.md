@@ -25,8 +25,9 @@ Project : <a href = "https://github.com/boostcampwm2023/and08-meetmeet">https://
 
 
 ### 🛠️ 사용 기술 및 라이브러리
+
 | 분류                    | Stack                                                      |
-| ----------------------- | ---------------------------------------------------------- |
+|:-----------------------:|:----------------------------------------------------------:|
 | App Architechture       | Google Recommended app architecture                        |
 | Design Pattern          | MVVM                                                       |
 | DI                      | Hilt                                                       |
