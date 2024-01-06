@@ -12,7 +12,7 @@ header:
 
 Source
 
-Project : https://github.com/agfalcon/lbs_newrun
+Project : <a href = "https://github.com/agfalcon/lbs_newrun">https://github.com/agfalcon/lbs_newrun</a>
 
 
 
@@ -46,10 +46,9 @@ Project : https://github.com/agfalcon/lbs_newrun
 ### 📱 담당한 기능(Android)
 <p style="font-size:16px;">
 - Figma를 활용하여 앱 디자인<br>
-- 홈 UI, 기록 UI, 달리기 UI 구성<br>
-- UserInfo 싱글톤 객체 생성 및 관리<br>
+- 홈 화면 기능<br>
 - 달리기 기능<br>
-- Custom Calendar 제작<br>
+- Custom Calendar를 활용한 기록 기능<br>
 - 전체 API 통신<br>
 - 전체 아키텍처 설계<br>
 </p>
@@ -67,10 +66,10 @@ Project : https://github.com/agfalcon/lbs_newrun
 
 
 
-### 💡 깨달은 점
+### 💡 고민한 점
 <p style="font-size:14px;">
-- 4대 컴포넌트 중 하나인 Broadcase Receiver의 동작에 대해 이해함.<br>
-- 2명의 안드로이드가 협업을 하면서 GitHub로 협업을 하고 pull request 및 merge에 대해 경험함.<br>
-- Flask Server를 처음 접해보면서 정말 간단하여 간단한 작업에 매우 적합하다고 생각함.<br>
-- Background Service의 생명주기에 대해 이해하였고, command에 따라 service의 동작을 제어하는 것을 경험함.<br>
+- 달리기 기능에서 백그라운드에서 지속적으로 gps 정보를 받아서 연산 처리가 필요하여 Service를 도입. Background Service의 생명주기에 대해 이해하였고, command에 따라 service의 동작을 제어하는 것을 경험함.<br>
+- Service에서 연산 처리한 데이터를 액티비티에서 활용할 필요가 있었음. 4대 컴포넌트 중 하나인 Broadcase Receiver의 동작에 대해 이해하고 이를 통해 서비스에서 다양한 액티비티와 통신할 수 있도록 구현.<br>
+- 달리기 데이터에 대한 처리를 위해 서버 담당자와 많은 고민을 함. 경로 데이터에 대한 처리를 DB에서 제공하는 공간 데이터 활용 및 안드로이드에서는 경로 좌표를 제공받지 않고 경로 이미지로 받아서 처리할 수 있도록 구현<br>
+- Stable Diffusion 모델이 너무 커서 클라우드 서버에 넣을 수 없는 문제 발생. Stable Diffusion 구동 웹 서버를 통해 이미지를 생성할 수 있도록 하고 이를 flask 서버에서 요청하고 앱으로 전달할 수 있도록 구현.<br>
 </p>
