@@ -11,8 +11,8 @@ header:
 
 Source
 
-Android :  https://github.com/whale2023/job-recommendation-android<br>
-Server :  https://github.com/whale2023/job-recommendation-backend
+Android :  <a href = "https://github.com/whale2023/job-recommendation-android">https://github.com/whale2023/job-recommendation-android</a><br>
+Server :  <a href = "https://github.com/whale2023/job-recommendation-backend">https://github.com/whale2023/job-recommendation-backend</a>
 
 
 
@@ -51,17 +51,17 @@ Server :  https://github.com/whale2023/job-recommendation-backend
 - 전체 navigation 흐름에 맞게 구축<br>
 - Retrofit2 통신 구조 설계 및 세팅<br>
 - 로그인 UI, 회원가입 UI, 홈 UI, 추천 UI, 위시 리스트 UI 구성<br>
-- UserInfo 싱글톤 객체 생성 및 관리<br>
 - 로그인 기능<br>
 - 회원가입 기능, 다음 새주소 API를 웹뷰로 제공<br>
 - pager로 주요 행사 홈에 띄우기<br>
-- Custom Calendar 제작<br>
+- 위시리스트 기능<br>
+- 추천 리스트 기능<br>
 </p>
 
 
 
 
-### 💡 깨달은 점
+### 💡 느낀 점
 <p style="font-size:14px;">
 - Jetpack Compose를 처음 공부하고 프로젝트를 하면서 전반적인 기초를 쌓음.<br>
 - composable의 생명주기에 대해 이해할 수 있었고, 불필요한 recomposition을 최소화 하기 위해 노력함.<br>
