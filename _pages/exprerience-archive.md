@@ -90,7 +90,18 @@ classes: wide
 
 ##### 자치단체
 
-##### 교육
+<span  style="text-decoration:None; color:black;">1. 총동아리 연합회(자치단체) 홍보차장
+</span>
 
-##### 공모전
+<span  style="text-decoration:None; color:black;">2. 과학생회 문화부장
+</span>
+
+<span  style="text-decoration:None; color:black;">3. 과학생회 문화국장
+</span>
+
+
+##### 봉사
+
+<span  style="text-decoration:None; color:black;">대구 광역시 V-파트너장원봉사단 5기 리더
+</span>
 
