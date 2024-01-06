@@ -12,7 +12,7 @@ header:
 
 Source
 
-Project : https://github.com/sgdevcamp2022/smilestone
+Project : <a href = "https://github.com/sgdevcamp2022/smilestone">https://github.com/sgdevcamp2022/smilestone</a>
 
 
 
@@ -48,7 +48,6 @@ Project : https://github.com/sgdevcamp2022/smilestone
 - 전체 UI 구성<br>
 - Retrofit2를 통한 서버와 통신<br>
 - STOMP를 통한 채팅 기능 <br>
-- UserInfo 싱글톤 객체 생성 및 관리 <br>
 - 그 외 모든 안드로이드 기능<br>
 </p>
 
