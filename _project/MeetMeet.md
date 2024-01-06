@@ -2,7 +2,7 @@
 title: "MeetMeet"
 property: "네이버 부스트 캠프 8기 프로젝트"
 period: "2023/11/06 ~ 2023/12/15"
-excerpt: "Android / Kotlin / Custom Calendar / Retrofit2 / MVVM / Hilt / Material3 / Room / DataStore / Glide / Media3 / ExoPlayer / Kakako Login API / FCM / Jetpack navigation / Moshi / Coroutine / Flow / WorkManager / AlarmManger"
+excerpt: "Android / Kotlin / Custom Calendar / Retrofit2 / MVVM / Hilt / Material3 / Room / DataStore  FCM / Jetpack navigation / Moshi / WorkManager / AlarmManger"
 header:
   image: /assets/images/meetmeet.png
   teaser: assets/images/meetmeet.png
