@@ -26,11 +26,11 @@ classes: wide
 
 #### 💳&nbsp;CERTIFICATE
 
-**1. 정보처리기사**
-**2. Microsoft Azure AI Fundamentals(AI-900)**
-**3. Microsoft Azure Fundamentals(AZ-900)**
+**1. 정보처리기사**<br/>
+**2. Microsoft Azure AI Fundamentals(AI-900)**<br/>
+**3. Microsoft Azure Fundamentals(AZ-900)**<br/>
 
 #### 🅰&nbsp;LANGUAGE
 
-**TOEIC 835점**
+**TOEIC 835점**<br/>
 **OPIc IH**
