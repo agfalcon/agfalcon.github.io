@@ -32,6 +32,5 @@ classes: wide
 
 #### 🅰&nbsp;LANGUAGE
 
-**TOEIC 835점**<br/>
-<br/>
-**OPIc IH**
+**1. TOEIC 835점**<br/>
+**2. OPIc IH**
